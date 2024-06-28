@@ -1,5 +1,8 @@
 <p align="center">
 # 🏋️ ZyFit - Elevate Your Fitness Journey 🚀
+</p>
+
+<p align="center">
 <img src="img2/logoc.png" alt="ZyFit Logo" width="200">
 
 
