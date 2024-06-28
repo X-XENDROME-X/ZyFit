@@ -17,7 +17,7 @@ Welcome to ZyFit, a cutting-edge fitness website that blends sleek design with p
 - Smooth scrolling and animations that bring the page to life
 
 ### 📱 Responsive Mastery
-- Flawlessly adapts to all devices - from mobile to desktop
+- Flawlessly adapts to all devices - from mobile and tablets to desktop
 - Smart, collapsible navigation for optimal mobile experience
 
 ### 🚀 Performance-Driven Design
