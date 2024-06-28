@@ -1,5 +1,7 @@
 # 🏋️ ZyFit - Elevate Your Fitness Journey 🚀
 
+![Zyfit Logo](img2/logoc.png)
+
 Welcome to ZyFit, a cutting-edge fitness website that blends sleek design with powerful functionality!
 
 ## 🛠️ Tech Stack Showcase
