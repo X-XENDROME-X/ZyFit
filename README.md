@@ -1,6 +1,8 @@
 # 🏋️ ZyFit - Elevate Your Fitness Journey 🚀
 
+<p align="center">
 <img src="img2/logoc.png" alt="ZyFit Logo" width="200">
+</p>
 
 Welcome to ZyFit, a cutting-edge fitness website that blends sleek design with powerful functionality!
 
