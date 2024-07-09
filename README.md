@@ -10,7 +10,7 @@ Welcome to ZyFit, a cutting-edge fitness website that blends sleek design with p
 
 ## 🛠️ Tech Stack Showcase
 
-- **HTML5** & **CSS3**: Crafting a visually stunning, responsive interface
+- **HTML5** & **CSS3**: Crafting visually stunning, responsive interface
 - **JavaScript (ES6+)**: Powering dynamic interactions and smooth animations
 - **Node.js** & **Express.js**: Robust backend for seamless data handling
 - **MySQL**: Efficient data storage for user interactions
