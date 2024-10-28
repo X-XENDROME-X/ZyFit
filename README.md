@@ -1,5 +1,5 @@
 <H1 align="center">
-🏋️ ZyFit - Elevate Your Fitness Journey 🚀
+🏋️ ZyFit - Elevate Your Fitness Journey! 🚀
 </H1>
 
 <p align="center">
